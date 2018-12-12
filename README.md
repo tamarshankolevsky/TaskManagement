@@ -926,24 +926,24 @@ l.com","ManagerId":21}]
 ## WinForms + Angular
 
 ### Home page
-![picture](step2.png)
-![picture](step2.1.png)   
+![picture](pictures/step2.png)
+![picture](pictures/step2.1.png)   
 ### Manager screens
-!picture/[picture](step3.png)   
-!picture/[picture](step4.png) 
-!picture/[picture](step4.1.png)  
-!picture/[picture](step4.2.png)  
-!picture/[picture](step4.3.png)  
-!picture/[picture](step4.4.png)  
-!picture/[picture](step4.5.png)  
+![picture](pictures/step3.png)   
+![picture](pictures/step4.png) 
+![picture](pictures/step4.1.png)  
+![picture](pictures/step4.2.png)  
+![picture](pictures/step4.3.png)  
+![picture](pictures/step4.4.png)  
+![picture](pictures/step4.5.png)  
 ### Team-leader screens
-!picture/[picture](step5.png)   
-!picture/[picture](step6.png)  
-!picture/[picture](step7.png) 
+![picture](pictures/step5.png)   
+![picture](pictures/step6.png)  
+![picture](pictures/step7.png) 
 ### Worker screens
-!picture/[picture](step12.png) 
-!picture/[picture](step10.png) 
-!picture/[picture](step13.png)
+![picture](pictures/step12.png) 
+![picture](pictures/step10.png) 
+![picture](pictures/step13.png)
 
 
 
