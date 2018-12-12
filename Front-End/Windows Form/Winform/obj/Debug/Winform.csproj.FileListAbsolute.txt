@@ -1,0 +1,60 @@
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\Winform.csprojAssemblyReference.cache
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\TaskManagment.LogIn.resources
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\TaskManagment.Forms.ManagerHome.resources
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\TaskManagment.Forms.TeamLeaderHome.resources
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\TaskManagment.Forms.TeamLeaderProjectDeatails.resources
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\TaskManagment.Forms.TeamLeaderWorkers.resources
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\TaskManagment.Forms.WorkerHome.resources
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\TaskManagment.Forms.Work.WorkEmail.resources
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\Winform.Properties.Resources.resources
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\Winform.csproj.GenerateResource.cache
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\Winform.csproj.CoreCompileInputs.cache
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\bin\Debug\Winform.exe.config
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\bin\Debug\Winform.exe
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\bin\Debug\Winform.pdb
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\Winform.csproj.CopyComplete
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\Winform.exe
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Front-End\Winform\Winform\obj\Debug\Winform.pdb
+C:\Users\novakr\Desktop\Winform\Winform\bin\Debug\Winform.exe.config
+C:\Users\novakr\Desktop\Winform\Winform\bin\Debug\Winform.exe
+C:\Users\novakr\Desktop\Winform\Winform\bin\Debug\Winform.pdb
+C:\Users\novakr\Desktop\Winform\Winform\bin\Debug\Newtonsoft.Json.dll
+C:\Users\novakr\Desktop\Winform\Winform\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\novakr\Desktop\Winform\Winform\bin\Debug\Newtonsoft.Json.xml
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\Winform.csprojAssemblyReference.cache
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\TaskManagment.LogIn.resources
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\TaskManagment.Forms.ManagerHome.resources
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\TaskManagment.Forms.TeamLeaderHome.resources
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\TaskManagment.Forms.TeamLeaderProjectDeatails.resources
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\TaskManagment.Forms.TeamLeaderWorkers.resources
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\TaskManagment.Forms.WorkerHome.resources
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\TaskManagment.Forms.Work.WorkEmail.resources
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\Winform.Properties.Resources.resources
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\Winform.csproj.GenerateResource.cache
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\Winform.csproj.CoreCompileInputs.cache
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\Winform.csproj.CopyComplete
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\Winform.exe
+C:\Users\novakr\Desktop\Winform\Winform\obj\Debug\Winform.pdb
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\bin\Debug\Winform.exe.config
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\bin\Debug\Winform.exe
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\bin\Debug\Winform.pdb
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\bin\Debug\Newtonsoft.Json.dll
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\bin\Debug\Newtonsoft.Json.xml
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\Winform.csprojAssemblyReference.cache
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\TaskManagment.LogIn.resources
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\TaskManagment.Forms.ManagerHome.resources
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\TaskManagment.Forms.TeamLeaderHome.resources
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\TaskManagment.Forms.TeamLeaderProjectDeatails.resources
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\TaskManagment.Forms.TeamLeaderWorkers.resources
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\TaskManagment.Forms.WorkerHome.resources
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\TaskManagment.Forms.Work.WorkEmail.resources
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\Winform.Properties.Resources.resources
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\Winform.csproj.GenerateResource.cache
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\Winform.csproj.CoreCompileInputs.cache
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\Winform.csproj.CopyComplete
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\Winform.exe
+C:\Users\novakr\Documents\GitHub\TaskManagement\Front-End\Windows Form\Winform\obj\Debug\Winform.pdb

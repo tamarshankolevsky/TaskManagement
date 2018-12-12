@@ -1,0 +1,45 @@
+<div class="modal-dialog">
+    <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" (click)="close()">&times;</button>
+            <h4 class="modal-title">Edit Project</h4>
+        </div>
+
+        <div class="modal-body">
+            <form [formGroup]="projectFormGroup" (ngSubmit)="editProject()">
+
+                <!-- Developer Hours, QA Hours, UI/UX Hours -->
+                <div class="group" *ngFor="let control of objectHolder.keys(projectFormGroup.controls)| slice:0:3;let i=index">
+                    <mat-form-field>
+                        <input type="text" formControlName="{{control}}" id="{{control}}" matInput>
+                    </mat-form-field>
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label for="{{control}}" [ngClass]="{'label':true,'full':projectFormGroup.controls[control].value!=''}">{{control}}</label>
+                    <div *ngIf="projectFormGroup.controls[control].errors&&projectFormGroup.controls[control].touched">
+                        <p *ngFor="let err of objectHolder.values(projectFormGroup.controls[control].errors)" class="myAlert">{{err}}</p>
+                    </div>
+                </div>
+
+                <!-- End Date -->
+                <div class="group">
+                    <p-calendar formControlName="endDate" [placeholder]="'End date'" matInput [showIcon]="true"></p-calendar>
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                </div>
+
+                <!-- Is Complete -->
+                <div class="group" *ngIf="project">
+                    <mat-checkbox formControlName="isComplete" id="isComplete">is Complete</mat-checkbox>
+                </div>
+
+                <!-- Save/Cancel -->
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary" [disabled]="projectFormGroup.invalid">Save</button>
+                    <button type="button" class="btn btn-default" (click)="close()">Cancel</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,465 @@
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\WebApi.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\WebApi.pdb
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\csc.exe
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\csc.exe.config
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\csc.rsp
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\csi.exe
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\csi.exe.config
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\csi.rsp
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.AppContext.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Collections.Immutable.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Console.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.Process.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.IO.Compression.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.IO.Pipes.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Security.AccessControl.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Security.Claims.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Threading.Thread.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.ValueTuple.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Xml.XPath.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\vbc.exe
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\vbc.exe.config
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\vbc.rsp
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\VBCSCompiler.exe
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\roslyn\VBCSCompiler.exe.config
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\01_BOL.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\02_BLL.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\Newtonsoft.Json.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\System.Net.Http.Formatting.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\System.Web.Http.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\System.Web.Http.WebHost.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\01_BOL.pdb
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\02_BLL.pdb
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\Newtonsoft.Json.xml
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\System.Net.Http.Formatting.xml
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\System.Web.Http.xml
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\System.Web.Http.WebHost.xml
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\obj\Debug\03_UIL.csprojAssemblyReference.cache
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\obj\Debug\03_UIL.csproj.CoreCompileInputs.cache
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\obj\Debug\03_UIL.csproj.CopyComplete
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\obj\Debug\WebApi.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\obj\Debug\WebApi.pdb
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\00_DAL.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\00_DAL.pdb
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\MySql.Data.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\Google.Protobuf.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\MySql.Data.xml
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\WebApi.dll.config
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\System.Web.Cors.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\System.Web.Http.Cors.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\WebApi\bin\System.Web.Http.Cors.xml
+S:\Tamar\new server\TaskManagment\WebApi\obj\Debug\03_UIL.csprojAssemblyReference.cache
+S:\Tamar\new server\TaskManagment\WebApi\obj\Debug\03_UIL.csproj.CoreCompileInputs.cache
+S:\Tamar\new server\TaskManagment\WebApi\obj\Debug\WebApi.dll
+S:\Tamar\new server\TaskManagment\WebApi\obj\Debug\WebApi.pdb
+S:\Tamar\new server\TaskManagment\WebApi\bin\WebApi.dll.config
+S:\Tamar\new server\TaskManagment\WebApi\bin\WebApi.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\WebApi.pdb
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\csc.exe
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\csc.exe.config
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\csc.rsp
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\csi.exe
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\csi.exe.config
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\csi.rsp
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.AppContext.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Collections.Immutable.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Console.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.Process.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.IO.Compression.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.IO.Pipes.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Security.AccessControl.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Claims.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Threading.Thread.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.ValueTuple.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.XPath.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\vbc.exe
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\vbc.exe.config
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\vbc.rsp
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\VBCSCompiler.exe
+S:\Tamar\new server\TaskManagment\WebApi\bin\roslyn\VBCSCompiler.exe.config
+S:\Tamar\new server\TaskManagment\WebApi\bin\01_BOL.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\02_BLL.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\Newtonsoft.Json.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\System.Net.Http.Formatting.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\System.Web.Cors.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\System.Web.Http.Cors.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\System.Web.Http.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\System.Web.Http.WebHost.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\00_DAL.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\MySql.Data.dll
+S:\Tamar\new server\TaskManagment\WebApi\bin\01_BOL.pdb
+S:\Tamar\new server\TaskManagment\WebApi\bin\02_BLL.pdb
+S:\Tamar\new server\TaskManagment\WebApi\bin\System.Net.Http.Formatting.xml
+S:\Tamar\new server\TaskManagment\WebApi\bin\System.Web.Http.xml
+S:\Tamar\new server\TaskManagment\WebApi\bin\System.Web.Http.Cors.xml
+S:\Tamar\new server\TaskManagment\WebApi\bin\Newtonsoft.Json.xml
+S:\Tamar\new server\TaskManagment\WebApi\bin\System.Web.Http.WebHost.xml
+S:\Tamar\new server\TaskManagment\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Tamar\new server\TaskManagment\WebApi\bin\00_DAL.pdb
+S:\Tamar\new server\TaskManagment\WebApi\obj\Debug\03_UIL.csproj.CopyComplete
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\WebApi.dll.config
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\WebApi.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\WebApi.pdb
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\csc.exe
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\csc.exe.config
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\csc.rsp
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\csi.exe
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\csi.exe.config
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\csi.rsp
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.AppContext.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Collections.Immutable.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Console.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.Process.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.IO.Compression.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.IO.Pipes.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Security.AccessControl.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Claims.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Threading.Thread.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.ValueTuple.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.XPath.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\vbc.exe
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\vbc.exe.config
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\vbc.rsp
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\VBCSCompiler.exe
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\roslyn\VBCSCompiler.exe.config
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\01_BOL.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\02_BLL.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\Newtonsoft.Json.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\System.Net.Http.Formatting.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\System.Web.Cors.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\System.Web.Http.Cors.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\System.Web.Http.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\System.Web.Http.WebHost.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\00_DAL.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\MySql.Data.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\01_BOL.pdb
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\02_BLL.pdb
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\System.Net.Http.Formatting.xml
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\System.Web.Http.xml
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\System.Web.Http.Cors.xml
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\Newtonsoft.Json.xml
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\System.Web.Http.WebHost.xml
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\bin\00_DAL.pdb
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\obj\Debug\03_UIL.csprojAssemblyReference.cache
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\obj\Debug\03_UIL.csproj.CoreCompileInputs.cache
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\obj\Debug\03_UIL.csproj.CopyComplete
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\obj\Debug\WebApi.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\WebApi\obj\Debug\WebApi.pdb
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\WebApi.dll.config
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\WebApi.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\WebApi.pdb
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\csc.exe
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\csc.exe.config
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\csc.rsp
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\csi.exe
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\csi.exe.config
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\csi.rsp
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Console.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\vbc.exe
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\vbc.rsp
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\01_BOL.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\02_BLL.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\System.Web.Cors.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\System.Web.Http.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\00_DAL.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\MySql.Data.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\Google.Protobuf.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\01_BOL.pdb
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\02_BLL.pdb
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\System.Web.Http.xml
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\bin\00_DAL.pdb
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\obj\Debug\03_UIL.csprojAssemblyReference.cache
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\obj\Debug\03_UIL.csproj.CoreCompileInputs.cache
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\obj\Debug\03_UIL.csproj.CopyComplete
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\obj\Debug\WebApi.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\WebApi\obj\Debug\WebApi.pdb
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\WebApi.dll.config
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\WebApi.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\WebApi.pdb
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\csc.exe
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\csc.exe.config
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\csc.rsp
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\csi.exe
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\csi.exe.config
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\csi.rsp
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Console.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\vbc.exe
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\vbc.rsp
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\01_BOL.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\02_BLL.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\System.Web.Cors.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\System.Web.Http.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\00_DAL.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\MySql.Data.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\Google.Protobuf.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\01_BOL.pdb
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\02_BLL.pdb
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\System.Web.Http.xml
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\bin\00_DAL.pdb
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\obj\Debug\03_UIL.csprojAssemblyReference.cache
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\obj\Debug\03_UIL.csproj.CoreCompileInputs.cache
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\obj\Debug\03_UIL.csproj.CopyComplete
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\obj\Debug\WebApi.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\WebApi\obj\Debug\WebApi.pdb
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\WebApi.dll.config
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\WebApi.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\WebApi.pdb
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\csc.exe
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\csc.exe.config
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\csc.rsp
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\csi.exe
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\csi.exe.config
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\csi.rsp
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Console.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\vbc.exe
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\vbc.rsp
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\01_BOL.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\02_BLL.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\System.Web.Cors.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\System.Web.Http.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\00_DAL.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\MySql.Data.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\Google.Protobuf.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\01_BOL.pdb
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\02_BLL.pdb
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\System.Web.Http.xml
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\00_DAL.pdb
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\obj\Debug\03_UIL.csprojAssemblyReference.cache
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\obj\Debug\03_UIL.csproj.CoreCompileInputs.cache
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\obj\Debug\03_UIL.csproj.CopyComplete
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\obj\Debug\WebApi.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\obj\Debug\WebApi.pdb
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\Seldat.MDS.Connector.dll
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\02_BLL.dll.config
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\Seldat.MDS.Connector.pdb
+C:\Users\shankolevskyt\Desktop\Tamar Schenkolewski\TaskManagement\Back-End\C#\WebApi\bin\Seldat.MDS.Connector.dll.config

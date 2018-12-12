@@ -1,0 +1,15 @@
+C:\Projects\toolsrepo\Seldat.MDS.Connector\bin\Release\Seldat.MDS.Connector.dll.config
+C:\Projects\toolsrepo\Seldat.MDS.Connector\bin\Release\Seldat.MDS.Connector.dll
+C:\Projects\toolsrepo\Seldat.MDS.Connector\bin\Release\Seldat.MDS.Connector.pdb
+C:\Projects\toolsrepo\Seldat.MDS.Connector\bin\Release\Common.Logging.dll
+C:\Projects\toolsrepo\Seldat.MDS.Connector\bin\Release\Newtonsoft.Json.dll
+C:\Projects\toolsrepo\Seldat.MDS.Connector\bin\Release\Quartz.dll
+C:\Projects\toolsrepo\Seldat.MDS.Connector\bin\Release\Common.Logging.pdb
+C:\Projects\toolsrepo\Seldat.MDS.Connector\bin\Release\Common.Logging.xml
+C:\Projects\toolsrepo\Seldat.MDS.Connector\bin\Release\Quartz.pdb
+C:\Projects\toolsrepo\Seldat.MDS.Connector\bin\Release\Quartz.xml
+C:\Projects\toolsrepo\Seldat.MDS.Connector\obj\Release\Seldat.MDS.Connector.csproj.CoreCompileInputs.cache
+C:\Projects\toolsrepo\Seldat.MDS.Connector\obj\Release\Seldat.MDS.Connector.csproj.CopyComplete
+C:\Projects\toolsrepo\Seldat.MDS.Connector\obj\Release\Seldat.MDS.Connector.dll
+C:\Projects\toolsrepo\Seldat.MDS.Connector\obj\Release\Seldat.MDS.Connector.pdb
+C:\Projects\toolsrepo\Seldat.MDS.Connector\obj\Release\Seldat.MDS.Connector.csprojAssemblyReference.cache

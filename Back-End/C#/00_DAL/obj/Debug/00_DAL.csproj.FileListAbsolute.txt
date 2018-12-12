@@ -1,0 +1,44 @@
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\00_DAL\bin\Debug\00_DAL.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\00_DAL\bin\Debug\00_DAL.pdb
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\00_DAL\obj\Debug\00_DAL.csproj.CoreCompileInputs.cache
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\00_DAL\obj\Debug\00_DAL.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\00_DAL\obj\Debug\00_DAL.pdb
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\00_DAL\bin\Debug\MySql.Data.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\00_DAL\bin\Debug\Google.Protobuf.dll
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\00_DAL\bin\Debug\MySql.Data.xml
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\00_DAL\obj\Debug\00_DAL.csproj.CopyComplete
+S:\Tamar\17.09.2018\פרויקט\TaskManagment\00_DAL\obj\Debug\00_DAL.csprojAssemblyReference.cache
+S:\Tamar\new server\TaskManagment\00_DAL\bin\Debug\00_DAL.dll
+S:\Tamar\new server\TaskManagment\00_DAL\bin\Debug\00_DAL.pdb
+S:\Tamar\new server\TaskManagment\00_DAL\bin\Debug\MySql.Data.dll
+S:\Tamar\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.csprojAssemblyReference.cache
+S:\Tamar\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.csproj.CoreCompileInputs.cache
+S:\Tamar\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.csproj.CopyComplete
+S:\Tamar\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.dll
+S:\Tamar\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.pdb
+S:\Tamar\17.09.2018\new server\TaskManagment\00_DAL\bin\Debug\00_DAL.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\00_DAL\bin\Debug\00_DAL.pdb
+S:\Tamar\17.09.2018\new server\TaskManagment\00_DAL\bin\Debug\MySql.Data.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.csprojAssemblyReference.cache
+S:\Tamar\17.09.2018\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.csproj.CoreCompileInputs.cache
+S:\Tamar\17.09.2018\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.csproj.CopyComplete
+S:\Tamar\17.09.2018\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.dll
+S:\Tamar\17.09.2018\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.pdb
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\00_DAL\bin\Debug\00_DAL.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\00_DAL\bin\Debug\00_DAL.pdb
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\00_DAL\bin\Debug\MySql.Data.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\00_DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.csprojAssemblyReference.cache
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.csproj.CoreCompileInputs.cache
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.csproj.CopyComplete
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.dll
+C:\Users\novakr\Desktop\פרויקט גמר\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.pdb
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\00_DAL\bin\Debug\00_DAL.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\00_DAL\bin\Debug\00_DAL.pdb
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\00_DAL\bin\Debug\MySql.Data.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\00_DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.csprojAssemblyReference.cache
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.csproj.CoreCompileInputs.cache
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.csproj.CopyComplete
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.dll
+C:\Users\novakr\Desktop\task-management\new server\TaskManagment\00_DAL\obj\Debug\00_DAL.pdb

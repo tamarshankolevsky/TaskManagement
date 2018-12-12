@@ -1,0 +1,39 @@
+
+.play i {
+  /* position: absolute; */
+  left: 50%;
+  top: 50%;
+  font-size: 50px;
+  background: #fff;
+  border-radius: 50%;
+  height: 40px;
+  width: 51px;
+  line-height: 50px;
+  z-index:2;
+}
+.none i{
+    left: 50%;
+    top: 50%;
+    font-size: 50px;
+    border-radius: 50%;
+    height: 40px;
+    width: 51px;
+    line-height: 50px;
+    z-index:2;
+    display: hidden;
+    color: white;
+}
+.back{
+    color: white;
+}
+.play i:hover{
+	cursor:pointer;
+}
+
+.start{
+    color: green;
+}
+
+.stop{
+    color: red;
+}
