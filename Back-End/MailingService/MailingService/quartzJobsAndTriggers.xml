@@ -15,9 +15,9 @@
         <job-name>MyJob</job-name>
         <job-group>MyJobGroup</job-group>
         <misfire-instruction>DoNothing</misfire-instruction>
-        <cron-expression>0 0/1 * * * ?</cron-expression>
-        <!--every day =0 1 * * *-->
-        <!--every minute 0 0/1 * * * ?-->
+        <cron-expression>0 1 * * *</cron-expression>
+        <!--every day - 0 1 * * *-->
+        <!--every minute - 0 0/1 * * * ?-->
       </cron>
     </trigger>
 
