@@ -1,0 +1,56 @@
+<div class="box">
+  <div class="header">
+    <div class="thumbur">
+    </div>
+    <hr/>
+  </div>
+  <div class="scrollbar" id="style-2">
+    <div id="form" class="force-overflow">
+      <h1>{{title}}</h1>
+      <form [formGroup]="userFormGroup" (ngSubmit)="onSubmit()">
+        <!-- name, userName, password, email-->
+        <div class="group" *ngFor="let control of objectHolder.keys(userFormGroup.controls)| slice:0:4;let i=index">
+          <div *ngIf="i!=2||this.showPassword">
+            <mat-form-field>
+              <input type="{{types[i]}}" formControlName="{{control}}" matInput id="{{control}}">
+            </mat-form-field>
+            <span class="highlight"></span>
+            <span class="bar"></span>
+            <label for="{{control}}" [ngClass]="{'label':true,'full':userFormGroup.controls[control].value!=''}">{{control}}:</label>
+            <div *ngIf="userFormGroup.controls[control].errors&&userFormGroup.controls[control].touched">
+              <p *ngFor="let err of objectHolder.values(userFormGroup.controls[control].errors)" class="myAlert">{{err}}</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Status -->
+        <div class="group" *ngIf="allStatuses.length>0">
+          <mat-form-field>
+            <mat-select formControlName="statusId" id="statusId">
+              <mat-option *ngFor="let status of allStatuses" [value]="status.Id">{{status.Name}}</mat-option>
+            </mat-select>
+          </mat-form-field>
+          <span class="highlight"></span>
+          <span class="bar"></span>
+          <label for="statusId" [ngClass]="{'label':true,'full':statusId.value!=''}">Status</label>
+        </div>
+
+        <!-- Team Leader -->
+        <div class="group" *ngIf="allTeamLeaders.length>0 && statusId.value!=1&& statusId.value!=2">
+          <mat-form-field>
+            <mat-select formControlName="managerId" id="managerId">
+              <mat-option *ngFor="let teamLeader of allTeamLeaders" [value]="teamLeader.Id">{{teamLeader.Name}}</mat-option>
+            </mat-select>
+          </mat-form-field>
+          <span class="highlight"></span>
+          <span class="bar"></span>
+          <label for="teamLeaderId" [ngClass]="{'label':true}">Team Leader</label>
+        </div>
+
+        <button type="submit" class="button col-md-offset-2 col-md-8" [disabled]="userFormGroup.invalid">{{title}}</button>
+  
+      </form>
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,15 @@
+<div>
+  <div class="file-upload">
+    <button class="file-upload-btn my-btn" type="button" (click)="triggerInputFileEvent()">Add Your Image</button>
+    <div class="image-upload-wrap" [ngStyle]="{'display':locationUrl===null?'block':'none'}" #imageUpload>
+      <input type="file" class="file-upload-input" [formControl]="imageControl" (change)="showPreviewImage($event)" #inputFile/>
+    </div>
+    <div class="file-upload-content" *ngIf="locationUrl">
+      <img [src]="locationUrl" class="file-upload-image imgPlaceholder" />
+      <div class="image-title-wrap">
+        <button type="button" class="remove-image" (click)="removeUpload()">remove:
+          <span class="image-title">{{imageName}}</span>
+        </button>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,30 @@
+<div class="box">
+  <div class="header">
+    <div class="thumbur">
+      <div class="icon-lock"></div>
+    </div>
+    <hr/>
+  </div>
+  <form [formGroup]="loginFormGroup" (ngSubmit)="onSubmit()">
+    <div class="group">
+      <input formControlName="userName" id="userName" class="inputMaterial" (keyup)="isExistUser = true">
+      <span class="highlight"></span>
+      <span class="bar"></span>
+      <label for="username" [ngClass]="{'label':true,'full':userName.value!=''}">User Name</label>
+      <div *ngIf="userName.errors&& userName.touched">
+        <p *ngFor="let err of objectHolder.values(userName.errors)" class="myAlert">{{err}}</p>
+      </div>
+    </div>
+    <div class="group">
+      <input type="password" formControlName="password" id="password" class="inputMaterial" (keyup)="isExistUser = true">
+      <span class="highlight"></span>
+      <span class="bar"></span>
+      <label for="password" [ngClass]="{'label':true,'full':password.value!=''}">Password</label>
+      <div *ngIf="password.errors&& password.touched">
+        <p *ngFor="let err of objectHolder.values(password.errors)" class="myAlert">{{err}}</p>
+      </div>
+    </div>
+    <p *ngIf="!isExistUser" class="myAlert">user name or password is not correct</p>
+    <button type="submit" class="button col-md-offset-2 col-md-8" [disabled]="loginFormGroup.invalid||isExistUser==false">Login</button>
+  </form>
+</div>

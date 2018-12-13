@@ -1,0 +1,111 @@
+span{
+    width: 10%;
+    font-weight: bold;
+}
+.example-user-input {
+    margin-right: 8px;
+}
+#map{
+    height: 48vh;
+}
+.col-md-3 {
+    width: 21vw;
+    max-width: 30vw;
+    float: right;
+    position: relative;
+    right: 2%;
+}
+.col-md-11{
+    max-width: 91%;
+}
+.custom-control-inline {
+    margin-right: 1.2rem !important;
+}
+.row {
+    margin-top: 4% !important;
+}
+
+.hamburger {
+       padding: 0;
+       cursor: pointer;
+       outline: none;
+       background: none;
+       border: 0;
+       color: grey;
+}
+
+   
+.requestForm {
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 3px 9px rgba(0,0,0,.5);
+    position: absolute;
+    left: auto;
+    top: 18%;
+    padding: 0.5% 0 2.5% 0;
+    bottom: 0;
+    width: 25.5%;
+    min-width: 250px;
+    height: max-content;
+    right: -26%;
+    z-index: 2;
+}
+.closeRequestForm{
+    color: gray;
+    width: 35px;
+    height: 42px;
+    float: left;
+    margin-left: 5%;
+    padding: 0;
+}
+.closeRequestForm i:nth-child(1){
+    position: absolute;
+    top: 3%;
+    left: 5%;
+    font-size: 20px;
+}
+.closeRequestForm i:nth-child(2){
+    position: absolute;
+    top: 3%;
+    left: 8%;
+    font-size: 20px;
+
+}
+@keyframes out {
+    0% {
+        left: 0%;
+        opacity: 1;
+    }
+
+    100% {
+        left: -26%;
+        opacity: 0;
+    }
+}
+
+@keyframes in {
+    0% {
+        left: -26%;
+        opacity: 0;
+    }
+
+    100% {
+        left: 0%;
+        opacity: 1;
+    }
+}
+
+.in {
+    animation: in .3s linear;
+    left: 0%;
+}
+
+.out {
+    animation: out .3s linear;
+    left: -26%;
+}
+
+.msg {
+    position: absolute;
+    left: 0;
+}

@@ -1,0 +1,29 @@
+<div class="box">
+    <div class="header">
+      <div class="thumbur">
+        <div class="icon-lock"></div>
+      </div>
+      <hr/>
+    </div>
+    <div class="scrollbar" id="style-2">
+        {{workerHours.Id}}
+        {{workerHours.Name}}
+      <div id="form" class="force-overflow">
+        <form [formGroup]="workerFormGroup" (ngSubmit)="onSubmit()">
+            <!-- allocatedHours, hours -->
+          <div class="group" *ngFor="let control of objectHolder.keys(workerFormGroup.controls)| slice:0:4;let i=index">
+            <input type="text" formControlName="{{control}}" id="{{control}}" class="inputMaterial">{{control.value}}
+            <span class="highlight"></span>
+            <span class="bar"></span>
+            <label for="{{control}}" [ngClass]="{'label':true,'full':workerFormGroup.controls[control].value!=''}">{{control}}:</label>
+            <div *ngIf="workerFormGroup.controls[control].errors&&workerFormGroup.controls[control].touched">
+              <p *ngFor="let err of objectHolder.values(workerFormGroup.controls[control].errors)" class="myAlert">{{err}}</p>
+            </div>
+          </div>
+  
+          <button type="submit" class="button col-md-offset-2 col-md-8" [disabled]="workerFormGroup.invalid">Save</button>
+  
+        </form>
+      </div>
+    </div>
+  </div>

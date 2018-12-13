@@ -1,0 +1,88 @@
+<div *ngIf="!teamLeaders.length>0" class="spinner">
+    <p-progressSpinner></p-progressSpinner>
+</div>
+<div>
+    <button (click)="openRequestForm()" class="hamburger" matTooltip="Search and filter reports" aria-label="Button that displays a tooltip when focused or hovered over">
+        <i class="material-icons glyphicon glyphicon-menu-hamburger"></i>
+    </button>
+    <button (click)="exportToExcel()" mat-raised-button color="primary">Export to excel</button>
+    <div class="requestForm" [ngClass]="state">
+        <button (click)="closeRequestForm()" mat-raised-button>
+            <i class="fa fa-close"></i></button>
+        <div *ngIf="reportFormGroup">
+            <form *ngIf="teamLeaders.length>0" [formGroup]="reportFormGroup">
+                <div>
+                    <div class="group" *ngIf="allUsers.length>0">
+                        <mat-form-field>
+                            <mat-select formControlName="userId" id="userId" [value]="selectValue" (selectionChange)="onChangeUser($event)">
+                                <mat-option [value]=" ">all users</mat-option>
+                                <mat-option *ngFor="let user of allUsers" [value]="user.UserName">{{user.UserName}}</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                        <span class="highlight"></span>
+                        <span class="bar"></span>
+                        <label [ngClass]="{'label':true}">All Users</label>
+                    </div>
+                    <!-- Team Leaders -->
+                    <div class="group" *ngIf="teamLeaders.length>0">
+                        <mat-form-field>
+                            <mat-select formControlName="teamLeaderId" id="teamLeaderId" [value]="selectValue"
+                                (selectionChange)="onChangeTeamLeader($event)">
+                                <mat-option [value]="all">all teamLeaders</mat-option>
+                                <mat-option *ngFor="let teamLeader of teamLeaders" [value]="teamLeader.Id">{{teamLeader.UserName}}</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                        <span class="highlight"></span>
+                        <span class="bar"></span>
+                        <label [ngClass]="{'label':true}">All TeamLeaders</label>
+                    </div>
+                    <!-- Projects -->
+                    <div class="group" *ngIf="allProjects.length>0">
+                        <mat-form-field>
+                            <mat-select formControlName="projectId" id="projectId" [value]="selectValue"
+                                (selectionChange)="onChangeProject($event)">
+                                <mat-option [value]=" ">all projects</mat-option>
+                                <mat-option *ngFor="let project of allProjects" [value]="project.Name">{{project.Name}}</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                        <span class="highlight"></span>
+                        <span class="bar"></span>
+                        <label [ngClass]="{'label':true}">All Projects</label>
+                    </div>
+                </div>
+            </form>
+            <div *ngIf="allUsers.length>0">
+                <h5>Start Date</h5>
+                <p-calendar view="month" dateFormat="mm/yy" [yearNavigator]="true" [(ngModel)]="startDateValue"
+                    yearRange="2000:2030" (onSelect)="onChangeStartDate()"></p-calendar>
+            </div>
+            <div *ngIf="allUsers.length>0">
+                <h5>End Date</h5>
+                <p-calendar view="month" dateFormat="mm/yy" [yearNavigator]="true" [(ngModel)]="endDateValue" yearRange="2000:2030"
+                    (onSelect)="onChangeEndDate()"></p-calendar>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+    <p-treeTable [value]="filterd">
+        <ng-template pTemplate="header">
+            <tr>
+                <th *ngFor="let col of cols">
+                    {{col.header}}
+                </th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-rowNode let-rowData="rowData">
+            <tr>
+                <td *ngFor="let col of cols; let i = index">
+                    <p-treeTableToggler [rowNode]="rowNode" *ngIf="i == 0"></p-treeTableToggler>
+                    <span>{{rowData[col.field]}}</span>
+                </td>
+
+            </tr>
+        </ng-template>
+    </p-treeTable>

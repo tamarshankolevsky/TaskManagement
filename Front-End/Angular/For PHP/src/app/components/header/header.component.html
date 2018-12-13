@@ -1,0 +1,19 @@
+<header class="row">
+
+  <div class="user" *ngIf="localStorage.getItem(global.currentUser)">
+    <span class=" col-md-offset-4 userName">Hello {{ json.parse(localStorage.getItem(global.currentUser)).UserName}}</span>
+  </div>
+
+  <div class="user" *ngIf="!localStorage.getItem(global.currentUser)">
+    <span class=" col-md-offset-4 userName">Guest</span>
+  </div>
+
+  <div class="container">
+    <ul class="nav navbar-nav" *ngIf="localStorage.getItem(global.CurrentUser)">
+      <li routerLinkActive="active">
+        <a routerLink="/taskManagement/login" *ngIf="localStorage.getItem(global.CurrentUser)" (click)="logout()">LogOut</a>
+      </li>
+    </ul>
+  </div>
+  <!-- <div id="google_translate_element"></div> -->
+</header>
