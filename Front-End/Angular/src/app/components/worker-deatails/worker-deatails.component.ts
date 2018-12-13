@@ -3,8 +3,9 @@ import { MessageService } from 'primeng/api';
 
 import {
   Global, User, Project,
-  TeamLeaderService, UserService, ProjectService
+  TeamLeaderService, UserService, ProjectService, WorkerHoursService
 } from '../../imports';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-worker-deatails',
@@ -16,12 +17,13 @@ import {
 export class WorkerDeatailsComponent implements OnInit {
 
   //----------------PROPERTIES-------------------
-
   private projectsHours: any[];
   private worker: User;
   private currentWorker: User;
   private numHours: number = 0;
   private projectId: number;
+  private sub: any;
+  private isEdit: boolean = true;
   status: any;
   ProjectName: string;
   theProject: Project;
@@ -29,16 +31,30 @@ export class WorkerDeatailsComponent implements OnInit {
   //----------------CONSTRUCTOR------------------
 
   constructor(
+    private route: ActivatedRoute,
     private teamLeaderService: TeamLeaderService,
     private userService: UserService,
     private projectService: ProjectService,
-    private messageService: MessageService
+    private messageService:MessageService
   ) { }
 
   //------------------METHODS--------------------
 
   ngOnInit() {
     this.currentWorker = JSON.parse(localStorage.getItem(Global.CurrentUser));
+
+     //get the current worker
+     this.sub = this.route.params.subscribe(params => {
+      this.userService.getUser(+params['id']).subscribe(
+        (user: User) => {
+          this.worker = user[0];
+          this.teamLeaderService.getProjectsHours(this.currentWorker.Id, this.worker.Id).subscribe(
+            res => {
+              this.projectsHours = res;
+            });
+        },
+        err => console.log(err));
+    });
   }
 
   changeHours() {

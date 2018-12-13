@@ -1,14 +1,15 @@
-<mat-card class="col-md-12">
-  <mat-card-content class="mat-card-content col-md-12">
+<mat-card>
+  <mat-card-content class="mat-card-content">
     <h3>{{hour.Name}}</h3>
     <hr class="colorgraph">
-    <label class="col-md-6">worked hours:</label>
-    <label class="col-md-6">{{hour.Hours}}</label>
-    <label class="col-md-6" *ngIf="hour.Hours==''">0</label>
+    <label>worked hours:</label>
+    <label>{{hour.Hours}}</label>
+    <label *ngIf="hour.Hours==''">0</label>
     <br>
-    <label class="col-md-6">allocated hours:</label>
-    <label class="col-md-4">{{hour.allocatedHours}}</label>
+    <label>allocated hours:</label>
+    <label>{{hour.allocatedHours}}</label>
   </mat-card-content>
+  <div class="none" *ngIf="hour.allocatedHours!=0 && json.parse(localStorage.getItem(global.currentUser)).StatusId==2"><i class="fa fa-pause-circle"></i></div>
   <div class="none" *ngIf="hour.allocatedHours==0"><i class="fa fa-pause-circle"></i></div>
   <div *ngIf="json.parse(localStorage.getItem(global.currentUser)).StatusId==3 && hour.allocatedHours!=0">
     <div class="play start" *ngIf="!enableStop&&!this.hoursService.projectStart" (click)="StartTimer()"><i class="fa fa-play-circle"></i></div>

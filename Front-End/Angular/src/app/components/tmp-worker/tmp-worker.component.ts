@@ -31,7 +31,7 @@ export class TmpWorkerComponent implements OnInit {
       });
   }
 
-  openWorkerDeatails(worker: User) {
+  openWorkerDeatails(worker:any) {
     this.router.navigate([`taskManagement/teamLeader/WorkerDeatails`, worker.Id]);
   }
 }

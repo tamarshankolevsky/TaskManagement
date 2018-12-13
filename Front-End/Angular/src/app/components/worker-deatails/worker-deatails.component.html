@@ -1,3 +1,4 @@
+<div *ngIf="worker">
 <h1>The worker: {{worker.Name}}</h1>
 <div class="row">
   <div class="col-md-3" *ngFor="let projectHour of projectsHours">
@@ -12,5 +13,6 @@
   <button mat-raised-button color="primary" (click)="changeHours()">
     Update Hours
   </button>
+</div>
 </div>
 <p-toast [style]="{marginTop: '80px'}" position="top-center" key="tc"></p-toast>
