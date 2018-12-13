@@ -21,7 +21,7 @@ export class TreeTableService {
 
   //GET
   GetTreeTable(): Observable<TreeTable[]> {
-    return this.httpClient.get(this.basicURL + `/{getTreeTable}`)
+    return this.httpClient.get(this.basicURL + `/getTreeTable`)
       .pipe(
         map((res: TreeTable[]) => res),
         catchError((r: Response) => Observable.throw(r))
