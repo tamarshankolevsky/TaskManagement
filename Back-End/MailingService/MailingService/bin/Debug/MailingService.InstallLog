@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\novakr\Documents\GitHub\TaskManagement\Back-End\MailingService\MailingService\bin\Debug\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\novakr\Documents\GitHub\TaskManagement\Back-End\MailingService\MailingService\bin\Debug\MailingService.InstallLog
+   assemblypath = C:\Users\novakr\Documents\GitHub\TaskManagement\Back-End\MailingService\MailingService\bin\Debug\MailingService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\novakr\Documents\GitHub\TaskManagement\Back-End\MailingService\MailingService\bin\Debug\MailingService.exe assembly.
+Committing assembly 'C:\Users\novakr\Documents\GitHub\TaskManagement\Back-End\MailingService\MailingService\bin\Debug\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\novakr\Documents\GitHub\TaskManagement\Back-End\MailingService\MailingService\bin\Debug\MailingService.InstallLog
+   assemblypath = C:\Users\novakr\Documents\GitHub\TaskManagement\Back-End\MailingService\MailingService\bin\Debug\MailingService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\novakr\Documents\GitHub\TaskManagement\Back-End\MailingService\MailingService\bin\Debug\MailingService.exe assembly.
+Remove InstallState file because there are no installers.
