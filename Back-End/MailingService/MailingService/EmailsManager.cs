@@ -37,7 +37,7 @@ namespace MailingService
                             {"endDate",email.endDate.Date }
                          };
                        
-                        MessageDistributionManager.SendEmail(1091, "rachel.novak@seldatinc.com" , information);//email.employeesEmail,int.Parse(WebConfigurationManager.AppSettings["TaskWarning"])
+                        MessageDistributionManager.SendEmail(1091, email.employeesEmail, information);
                     }
                    );
                 }
