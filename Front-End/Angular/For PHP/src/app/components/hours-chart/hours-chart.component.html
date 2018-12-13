@@ -1,0 +1,34 @@
+<div class="col-md-3">
+    <h4>Click on a project to show it's details</h4>
+    <ul>
+        <mat-list class="container">
+            <div *ngFor="let project of projects">
+                <mat-list-item>
+                    <li (click)="showChart(project)">{{project.Name}}</li>
+                </mat-list-item>
+            </div>
+        </mat-list>
+    </ul>
+</div>
+
+<div class="modal-dialog col-md-12" *ngIf="currentProject">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h1>{{currentProject.Name}}</h1>
+        </div>
+        <div class="modal-body">
+            <div class="group">
+                <div class="row">
+                    <h3>The Employees:</h3>
+                    <div class="col-md-10" *ngFor="let workerHour of workersHours">
+                        <app-hours [hour]=workerHour></app-hours>
+                    </div>
+                </div>
+                <hr/>
+                <div *ngIf="workersHours">
+                    <app-chart [projects]=workersHours></app-chart>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

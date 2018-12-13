@@ -1,0 +1,24 @@
+<h1>The worker: {{worker.Name}}</h1>
+<!-- <p-toast [style]="{marginTop: '80px'}" position="top-center" key="tc"></p-toast> -->
+<div class="row">
+  <div class="col-md-3" *ngFor="let projectHour of projectsHours">
+    <app-hours [hour]=projectHour (click)="setAllocatedHours(projectHour.Id,projectHour.Name)" [isEdit]=isEdit></app-hours>
+  </div>
+</div>
+
+<div class="cont_centrar" *ngIf="projectId">
+  <div>
+    <h4>enter allocated hours:</h4>
+    <input matInput [(ngModel)]="numHours">
+  </div>
+
+  <div classs="col-md-ofsset-10">
+    <button mat-raised-button color="primary" (click)="changeHours1()">
+      Update Hours
+    </button>
+  </div>
+
+  <!-- <button class="btn_sign" (click)="changeHours1()">change</button> -->
+</div>
+
+<p-toast [style]="{marginTop: '80px'}" position="top-center" key="tc"></p-toast>

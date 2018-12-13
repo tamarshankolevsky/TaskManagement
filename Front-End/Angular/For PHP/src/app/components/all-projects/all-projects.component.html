@@ -1,0 +1,8 @@
+<div *ngFor="let project of projects">
+  <app-project-details [project]="project" class="col-md-4"></app-project-details>
+</div>
+<div *ngIf="!isExistProject">
+  <h2>There is not any project to show</h2>
+</div>
+
+<p-toast [style]="{marginTop: '80px'}" position="top-center" key="tc"></p-toast>

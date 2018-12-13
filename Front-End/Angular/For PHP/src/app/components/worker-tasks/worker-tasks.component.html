@@ -1,0 +1,26 @@
+<div>
+  <div class="container">
+    <div>
+      <h1>{{currentWorker.Name}}</h1>
+      <p>Today is: {{today | date:'fullDate'}}</p>
+    </div>
+    <button id="btnEmail" class="col-md-3" (click)="send()" 
+            mat-raised-button matTooltip="Send Email To Your Team Leader"
+            aria-label="Button that displays a tooltip when focused or hovered over">
+            <img src="../../../assets/email.png">
+    </button>
+  </div>
+  <br>
+  <br>
+  <p-toast [style]="{marginTop: '80px'}" position="top-center" key="tc"></p-toast> 
+<div class="row">
+  <div class="col-md-3" *ngFor="let project of projects">
+    <app-hours [hour]=(project) [isProject]=(true) [list]=projects></app-hours>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-offset-3 col-md-6" *ngIf="projects">
+    <app-chart [projects]=projects></app-chart>
+  </div>
+</div>

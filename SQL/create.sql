@@ -2,11 +2,6 @@ use task_managment;
 #---------------------------------------------
 select * from users;
 
-
-
-
-
-
 insert into users values('100', 'tamar', 'tamar', '8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92', 'tamar5161718@gmail.com', 1, NULL, 1);
 insert into users values('101', 'team', 'team', '4cc8f4d609b717356701c57a03e737e5ac8fe885da8c7163d3de47e01849c635', 'tamar5161718@gmail.com', '2', '100', '1');
 insert into users values('102', 'worker', 'worker', '68487dc295052aa79c530e283ce698b8c6bb1b42ff0944252e1910dbecdc5425', 'tamar5161718@gmail.com', '3', '101', '1');
@@ -85,17 +80,6 @@ insert into user_projects values('66'	,'115','	32'	,'10');
 insert into user_projects values('67',	'112'	,'32'	,'10');
 insert into user_projects values('68	','115','34','0'	);
 insert into user_projects values('69'	,'116','34','0'	);
-#------------------------------------------------
 
-
-select * from daily_presence;
-
-
-set CHARACTER SET utf8;
- set COLLATE set utf8_general_ci;
-
-
-SET NAMES 'utf8';
-SET CHARACTER SET utf8;
 
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '1234';
