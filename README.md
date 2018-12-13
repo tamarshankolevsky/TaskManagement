@@ -18,11 +18,10 @@
  * [To desciption of the project follow this link](https://github.com/AnnaKarpf/Full-stack-web-development_4578-2/blob/master/12_Web%20api/final%20project.docx)
 
 ## Development server
-#to change to our details!!!!!!!!!!!!!!!!!
 To install the app in your computer you have to:
-  1. [Run the `mySql` code](https://github.com/tamarosenzweig/TaskManagmant/blob/master/mysql-queries.md)
+  1. [Run the `mySql` code](https://github.com/tamarshankolevsky/TaskManagement/blob/master/SQL/createDB.sql)
       To see some data in the live demo, you should add data to your tabels or
-      [Run the data- script code](https://github.com/tamarosenzweig/TaskManagmant/blob/master/mysql-script.md)
+      [Run the data- script code](https://github.com/tamarshankolevsky/TaskManagement/blob/master/SQL/createDB.sql)
 
   2. Run the `back-end` project.(the web api one)  This is the server. Navigate to `http://localhost:53728/`. 
 
