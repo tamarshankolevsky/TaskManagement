@@ -15,9 +15,9 @@ namespace MailingService
         static void Main()
         {
             //#if DEBUG
-            Service1 service = new Service1();
-            service.OnDebug();
-            System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
+            //Service1 service = new Service1();
+            //service.OnDebug();
+            //System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
             //#else
 
 
