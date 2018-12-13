@@ -19,9 +19,9 @@
 
 ## Development server
 To install the app in your computer you have to:
-  1. [Run the `mySql` code](https://github.com/tamarshankolevsky/TaskManagement/blob/master/SQL/createDB.sql)
+  1. [Run the `mySql` code](https://github.com/tamarshankolevsky/TaskManagement/tree/master/SQL)
       To see some data in the live demo, you should add data to your tabels or
-      [Run the data- script code](https://github.com/tamarshankolevsky/TaskManagement/blob/master/SQL/createDB.sql)
+      [Run the data- script code](https://github.com/tamarshankolevsky/TaskManagement/tree/master/SQL)
 
   2. Run the `back-end` project.(the web api one)  This is the server. Navigate to `http://localhost:53728/`. 
 
