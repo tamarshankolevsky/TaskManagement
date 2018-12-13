@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/managerPHP/BLL/project_service.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/index.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/routes_loader.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/API/controllers/hours_controller.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/BLL/hours_service.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/DAL/db_access.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/BLL/status_service.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/includes.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/API/controllers/project_controller.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/BLL/team_leader_service.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/API/controllers/status_controller.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/API/controllers/team_leader_controller.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/API/controllers/user_controller.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/BLL/projectworker_service.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/BLL/user_service.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/DAL/db_info.php</file>
+            <file>file:/C:/xampp/htdocs/managerPHP/BLL/base_service.php</file>
+        </group>
+    </open-files>
+</project-private>
