@@ -1,0 +1,62 @@
+<div class="box">
+  <div class="header">
+    <div class="thumbur">
+    </div>
+    <hr />
+  </div>
+  
+  <div *ngIf="projectFormGroup">
+    <h1>Add a project</h1>
+    <form [formGroup]="projectFormGroup" (ngSubmit)="onSubmit()">
+
+      <!-- name, Customer , Development Hours, QA Hours, UI/UX Hours -->
+      <div class="group" *ngFor="let control of objectHolder.keys(projectFormGroup.controls)| slice:0:5;let i=index">
+        <mat-form-field>
+          <input type="text" formControlName="{{control}}" id="{{control}}" matInput [disabled]="isTeamLeader(control)">
+        </mat-form-field>
+        <span class="highlight"></span>
+        <span class="bar"></span>
+        <label for="{{control}}" [ngClass]="{'label':true,'full':projectFormGroup.controls[control].value!=''}">{{control}}</label>
+        <div *ngIf="projectFormGroup.controls[control].errors&&projectFormGroup.controls[control].touched">
+          <p *ngFor="let err of objectHolder.values(projectFormGroup.controls[control].errors)" class="myAlert">{{err}}</p>
+        </div>
+      </div>
+
+      <!-- Start Date -->
+      <app-date-picker [date]="startDate" [placeholder]="'Start date'"></app-date-picker>
+
+      <!-- End Date -->
+      <app-date-picker [date]="endDate" [placeholder]="'End date'" [minDate]="startDate.value"></app-date-picker>
+
+      <!-- Team Leader -->
+      <div class="group" *ngIf="allTeamLeaders.length>0">
+        <mat-form-field>
+          <mat-select formControlName="teamLeaderId" id="teamLeaderId" [value]="selectValue" (selectionChange)="theWorkersToAdd($event)">
+            <mat-option *ngFor="let teamLeader of allTeamLeaders" [value]="teamLeader.Id">{{teamLeader.Name}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <span class="highlight"></span>
+        <span class="bar"></span>
+        <label for="teamLeaderId" [ngClass]="{'label':true,'full':teamLeaderId.value!=''}">Team Leader</label>
+      </div>
+
+      <!-- Workers to add -->
+      <div *ngIf="workersToSelect.length>0">
+        <h5>Add workers to this project:</h5>
+        <mat-selection-list formControlName="workersToProject" id="workersToProject" #workers (stateChanges)="addWorker($event)">
+          <mat-list-option [selected]="worker.ManagerId==teamLeaderId.value" *ngFor="let worker of workersToSelect"
+            [value]="worker.Id">
+            {{worker.Name}}
+          </mat-list-option>
+        </mat-selection-list>
+        <p>
+          Workers selected: {{workers.selectedOptions.selected.length}}
+        </p>
+      </div>
+
+      <!-- submit -->
+      <button type="submit" class="button col-md-offset-2 col-md-8" [disabled]="projectFormGroup.invalid">Save</button>
+
+    </form>
+
+    <p-toast [style]="{marginTop: '80px'}" (onClose)="navigate()" position="top-center" key="tc"></p-toast>

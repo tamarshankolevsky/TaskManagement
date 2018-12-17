@@ -1,0 +1,16 @@
+<div class="blog-card">
+  <div class="description">
+    <h1>{{worker.Name}}</h1>
+    <hr>
+    <label>User Name:</label>
+    <label>{{worker.UserName}}</label>
+    <br>
+    <label>Email:</label>
+    <label>{{worker.EMail}}</label>
+    <br>
+    <label>Status:</label>
+    <label>{{status}}</label>
+    <br>
+  </div>
+  <button class="button col-md-offset-4 col-md-3" (click)="openWorkerDeatails(worker)">show details</button>
+</div>
