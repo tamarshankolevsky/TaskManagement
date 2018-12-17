@@ -3,11 +3,9 @@ using Quartz;
 using Seldat.MDS.Connector;
 using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
-using System.Web.Configuration;
 
 namespace MailingService
 {
@@ -16,7 +14,6 @@ namespace MailingService
         public const string url = "http://localhost:53728/api/";
         public Task Execute(IJobExecutionContext context)
         {
-
             // get the details of the mail to sent
             HttpClient client = new HttpClient();
             client.BaseAddress = new Uri(url + "sendEmail");
@@ -36,12 +33,10 @@ namespace MailingService
                             { "projectName",email.projectName},
                             {"endDate",email.endDate.Date }
                          };
-                       
                         MessageDistributionManager.SendEmail(1091, email.employeesEmail, information);
                     }
                    );
                 }
-
             }
             return null;
         }
